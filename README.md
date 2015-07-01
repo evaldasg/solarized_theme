@@ -1,0 +1,2 @@
+# solarized_theme
+solarized
